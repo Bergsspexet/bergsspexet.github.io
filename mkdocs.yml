@@ -1,4 +1,5 @@
 site_name: Bergsspexet
+site_url: https://bergsspexet.com
 
 theme:
   name: material
