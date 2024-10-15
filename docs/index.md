@@ -5,6 +5,6 @@ Via denna hemsida kan du hitta föreningens aktuella information, inklusive län
 KBSS står för Konglig Bergs Spectacle Sellskap! Och vi råkar vara världens längst kontinuerliga spexverksamhet, med årliga produktioner anno 1943 till idag.
 
 Vi lever efter vår eviga devis:
->Att vara lite tokig för rolighetsskull är att vara klok.
->Att klok vilja vara men aldrig vara glad, det är tokars lag.
+>Att vara lite tokig för rolighets skull, är att vara klok;
+>att klok vilja vara men aldrig vara glad det är tokars lag.
 >> Pekka Norén, 1943
