@@ -33,18 +33,7 @@ jobs:
         run: |
           cd docs-site
           mkdocs build --site-dir ../site
-      
-      # ## Needed for images in the blog
-      # - name: Copy static folders to site directory
-      #   run: |
-      #     cp -r docs-site/docs/blog/posts/static site/static
-      #     cd ..
-      
-      # - name: Build and Deploy Blog
-      #   run: |
-      #     cd blog-site
-      #     mkdocs build --site-dir ../site/journal
-      #     cd ..
+          
       
       # Important for when using a Custom Domain
       - name: Copy CNAME to site directory
@@ -54,11 +43,18 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          git branch -f gh-pages || git checkout -b gh-pages  # Ensure gh-pages branch exists
-          git checkout gh-pages
-          mv site $RUNNER_TEMP/site  # Temporarily move site directory
-          git rm -rf .  # Remove all existing files
-          cp -r $RUNNER_TEMP/site/* .  # Copy the built site files to the root of gh-pages branch
+
+          # Check if the 'gh-pages' branch exists on remote
+          if git ls-remote --heads origin gh-pages; then
+            git fetch origin gh-pages
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+          fi
+
+          mv site $RUNNER_TEMP/site   # Temporarily move site directory
+          git rm -rf .                # Remove all existing files
+          cp -r $RUNNER_TEMP/site/* . # Copy the built site files to the root of gh-pages branch
           git add .
           git commit -m "Deploy to GitHub Pages"
           git push --force origin gh-pages
