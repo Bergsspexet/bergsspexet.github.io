@@ -1,0 +1,18 @@
+/*Rederence: https://github.com/squidfunk/mkdocs-material/discussions/2933*/
+.md-header__button.md-logo {
+    margin-top: 8;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 8;
+  }
+  
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 128px;
+    width: 128px;
+  }
+
+  /*Adjusting the stie name title size*/
+  .md-header__title {
+    font-size: clamp(1rem, 1rem + 2vh, 2.2rem);
+  }
