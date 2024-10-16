@@ -1,6 +1,6 @@
 # Biljetter
 
-Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024. Räkna med biljett släpp i november 2024.
+Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024. Räkna med biljettsläpp i november 2024.
 
 ### Spexpremiärens nedräkning
 Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan." Föreställningen börjar om:
