@@ -1,26 +1,18 @@
 # Biljetter
 
-Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024.
+Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024. Räkna med biljett släpp i november 2024.
 
 ### Spexpremiärens nedräkning
-Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan."
+Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan." Föreställningen börjar om:
 
-<table id="countdown-table" style="font-size: 1em; text-align: center; border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <th>Veckor</th>
-    <th>Dagar</th>
-    <th>Timmar</th>
-    <th>Minuter</th>
-    <th>Sekunder</th>
-  </tr>
-  <tr>
-    <td id="weeks"></td>
-    <td id="days"></td>
-    <td id="hours"></td>
-    <td id="minutes"></td>
-    <td id="seconds"></td>
-  </tr>
-</table>
+<div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
+  <span id="weeks"></span> veckor, 
+  <span id="days"></span> dagar, 
+  <span id="hours"></span> timmar, 
+  <span id="minutes"></span> minuter och 
+  <span id="seconds"></span> sekunder.
+</div>
+
 
 <script>
   var targetDate = new Date("Dec 14, 2024 13:00:00").getTime();
@@ -37,13 +29,14 @@ Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnä
     
     document.getElementById("weeks").innerHTML = weeks;
     document.getElementById("days").innerHTML = days;
+    // document.getElementById("time").innerHTML = hours + ":" + minutes + ":" + seconds;
     document.getElementById("hours").innerHTML = hours;
     document.getElementById("minutes").innerHTML = minutes;
     document.getElementById("seconds").innerHTML = seconds;
 
     if (distance < 0) {
       clearInterval(countdownFunction);
-      document.getElementById("countdown-table").innerHTML = "The countdown is over!";
+      document.getElementById("countdown").innerHTML = "Bergslusse nedräkningen klar!";
     }
   }, 1000);
 </script>
