@@ -2,8 +2,7 @@
 
 Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024.
 
-## Nedräkning till Showtime
-
+### Spexpremiärens nedräkning
 Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan."
 
 <!-- <div id="countdown" style="font-size: 2em; color: #d9534f;"></div>
