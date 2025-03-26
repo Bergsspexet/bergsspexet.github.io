@@ -1,9 +1,9 @@
 # Biljetter
 
-Bergslussepremiären för det 81:a Bergsspexet äger rum på Teater3 den 14 december 2024. Räkna med biljettsläpp i november 2024.
+Final dagarna för det 81:a Bergsspexet äger rum på Teater3 den 2:a & 3:e Maj. Räkna med biljettsläpp i mars 2025.
 
 ### Spexpremiärens nedräkning
-Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan." Föreställningen börjar om:
+Vi räknar ned till vår final Grand Finale av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan." Föreställningen börjar om:
 
 <div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
   <span id="weeks"></span> veckor, 
@@ -15,7 +15,7 @@ Vi räknar ned till Spexpremiären av det 81:a Bergsspexet: "Det stålta Järnä
 
 
 <script>
-  var targetDate = new Date("Dec 14, 2024 13:00:00").getTime();
+  var targetDate = new Date("May 3, 2025 13:00:00").getTime();
 
   var countdownFunction = setInterval(function() {
     var now = new Date().getTime();
