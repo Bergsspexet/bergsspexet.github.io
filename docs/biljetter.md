@@ -1,5 +1,7 @@
 # Biljetter
 
+Maila bergsspexet@gmail.com för att beställa biljetter!
+
 Final dagarna för det 81:a Bergsspexet äger rum på Teater3 den 2:a & 3:e Maj. Räkna med biljettsläpp i mars 2025.
 
 ### Spexpremiärens nedräkning
