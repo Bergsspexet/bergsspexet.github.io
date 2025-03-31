@@ -1,6 +1,7 @@
 # Biljetter
 
-Maila bergsspexet@gmail.com för att beställa biljetter!
+## Du kan nu boka Grande Finale biljetter via detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLSczhfdzlws5AeZsAuWBJPuDNQfdGRoDwNZlZTnBonZ5wvrZdg/viewform?usp=header)!
+För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 Final dagarna för det 81:a Bergsspexet äger rum på Teater3 den 2:a & 3:e Maj. Räkna med biljettsläpp i mars 2025.
 
