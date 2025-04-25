@@ -6,9 +6,13 @@ För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 Final dagarna för det 81:a Bergsspexet äger rum på Teater3 den 2:a & 3:e Maj.
 
 Detaljer:
+
 Fredag 2:a maj kl. 18.30
+
 Lördag 3:e maj kl. 13.00
+
 Insläpp 30 minuter innan
+
 Spexet är ca 3h inklusive paus.
 
 ### Spexpremiärens nedräkning
