@@ -2,7 +2,7 @@
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 ### Spexpremiärens nedräkning
-Vi räknar ned till vår Premiär av det 82:a Bergsspexet, Lördagen den 6 december kl. 12 [tiden justeras eventuellt]
+Vi räknar ned till vår Premiär av det 82:a Bergsspexet, Lördagen den 6 december kl. 12:30 [tiden justeras eventuellt]
 
 Biljettsläpp sker i början av november, intresse kan anmälas i detta [formulär](https://forms.gle/fQpLMaoBRRdNBK4Q7).
 
