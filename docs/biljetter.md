@@ -1,22 +1,12 @@
 # Biljetter
-
-## Du kan nu boka Grande Finale biljetter via detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLSczhfdzlws5AeZsAuWBJPuDNQfdGRoDwNZlZTnBonZ5wvrZdg/viewform?usp=header)!
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
-Final dagarna för det 81:a Bergsspexet äger rum på Teater3 den 2:a & 3:e Maj.
-
-Detaljer:
-
-Fredag 2:a maj kl. 18.30
-
-Lördag 3:e maj kl. 13.00
-
-Insläpp 30 minuter innan
-
-Spexet är ca 3h inklusive paus.
-
 ### Spexpremiärens nedräkning
-Vi räknar ned till vår final Grand Finale av det 81:a Bergsspexet: "Det stålta Järnälvsundshotellet; ...eller en skänk från ovan." Föreställningen börjar om:
+Vi räknar ned till vår Premiär av det 82:a Bergsspexet, Lördagen den 6 december kl. 12 [tiden justeras eventuellt]
+
+Biljettsläpp sker i början av november, intresse kan anmälas i detta [formulär](https://forms.gle/fQpLMaoBRRdNBK4Q7).
+
+Föreställningen börjar om:
 
 <div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
   <span id="weeks"></span> veckor, 
@@ -28,7 +18,7 @@ Vi räknar ned till vår final Grand Finale av det 81:a Bergsspexet: "Det stålt
 
 
 <script>
-  var targetDate = new Date("May 3, 2025 13:00:00").getTime();
+  var targetDate = new Date("Dec 6, 2025 12:00:00").getTime();
 
   var countdownFunction = setInterval(function() {
     var now = new Date().getTime();
