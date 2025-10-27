@@ -9,8 +9,8 @@ Vi lever efter vår eviga devis:
 >att klok vilja vara men aldrig vara glad det är tokars lag.
 >> Pekka Norén, 1943
 
-### Nyhetsbrev / Intresselista
-Skriv upp dig på denna intresselista om du vill ha uppdateringar via mejl om framtida föreställningar och biljettsläpp.
+### [Förtur till teaterbiljetter](https://subscribe.minutemailer.com/gKPv4Mk0)
+Anmäl dig till vår intresselista för att få meddelande när biljetterna släpps. Nyhetsbrevet fokuserar på att informera om föreställningsdatum, nyheter om publika event och biljettsläpp.
 
 <form action="https://subscribe.minutemailer.com/gKPv4Mk0" method="post">
     <input type="email" name="email" placeholder="Epost">
