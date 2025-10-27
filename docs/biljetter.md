@@ -16,6 +16,15 @@ Föreställningen börjar om:
   <span id="seconds"></span> sekunder.
 </div>
 
+### Nyhetsbrev / Intresselista
+Skriv upp dig på denna intresselista om du vill ha uppdateringar via mejl om framtida föreställningar och biljettsläpp.
+
+<form action="https://subscribe.minutemailer.com/gKPv4Mk0" method="post">
+    <input type="email" name="email" placeholder="Epost">
+    <input type="text" name="name" placeholder="Namn">
+    <button type="submit">Prenumerera</button>
+</form>
+
 
 <script>
   var targetDate = new Date("Dec 6, 2025 12:00:00").getTime();
