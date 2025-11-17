@@ -1,4 +1,9 @@
 # Biljetter
+
+Köp biljetter via detta formulär: https://forms.gle/4Hn6vraZeUwg7STr7
+
+(All aktuell infromation finns i Formuläret.)
+
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 ### Spexpremiärens nedräkning
