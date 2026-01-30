@@ -1,8 +1,8 @@
 # Biljetter
 
-Köp biljetter via detta formulär: [https://forms.gle/4Hn6vraZeUwg7STr7](https://forms.gle/4Hn6vraZeUwg7STr7)
+Intresse för Biljetter! (Även Grande Finale i maj)
 
-(All aktuell infromation finns i Formuläret.)
+https://forms.gle/fQpLMaoBRRdNBK4Q7
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
@@ -22,7 +22,7 @@ Föreställningen börjar om:
 </div>
 
 <script>
-  var targetDate = new Date("Dec 6, 2025 12:00:00").getTime();
+  var targetDate = new Date("May 2, 2026 12:00:00").getTime();
 
   var countdownFunction = setInterval(function() {
     var now = new Date().getTime();
