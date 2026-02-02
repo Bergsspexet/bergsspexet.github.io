@@ -2,7 +2,7 @@
 
 Intresse för Biljetter! (Även Grande Finale i maj)
 
-https://forms.gle/fQpLMaoBRRdNBK4Q7
+[Intresseformulär](https://forms.gle/fQpLMaoBRRdNBK4Q7), biljetterna släpps snart! (i februari)
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
