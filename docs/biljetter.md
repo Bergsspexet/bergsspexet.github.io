@@ -1,15 +1,15 @@
 # Biljetter
 
-Intresse för Biljetter! (Även Grande Finale i maj)
+Intresse för Biljetter!
 
 [Intresseformulär](https://forms.gle/fQpLMaoBRRdNBK4Q7), biljetterna släpps snart! (i februari)
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
-### Spexpremiärens nedräkning
-Vi räknar ned till vår Premiär av det 82:a Bergsspexet, Lördagen den 6 december kl. 12:30 [tiden justeras eventuellt]
+### Konglig Bergs Spectacle Sellskapss Grande Finale av det 82:a Beregsspexet
+Vi räknar ned till vår Grande Finale av det 82:a Bergsspexet, Lördagen den 2 maj kl. 13:00 [tiden justeras eventuellt]
 
-Biljettsläpp sker i början av november, intresse kan anmälas i detta [formulär](https://forms.gle/fQpLMaoBRRdNBK4Q7).
+Biljettsläpp sker i mitten av februari, intresse kan anmälas i detta [formulär](https://forms.gle/fQpLMaoBRRdNBK4Q7).
 
 Föreställningen börjar om:
 
@@ -22,7 +22,7 @@ Föreställningen börjar om:
 </div>
 
 <script>
-  var targetDate = new Date("May 2, 2026 12:00:00").getTime();
+  var targetDate = new Date("May 2, 2026 13:00:00").getTime();
 
   var countdownFunction = setInterval(function() {
     var now = new Date().getTime();
