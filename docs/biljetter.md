@@ -1,15 +1,17 @@
-# Biljetter
+# Grande finale Biljetter
 
-Intresse för Biljetter!
-
-[Intresseformulär](https://forms.gle/fQpLMaoBRRdNBK4Q7), biljetterna släpps snart! (i februari)
+[Beställningsformulär för spexbiljetter!](https://forms.gle/z2mCXafh2DVhxtZf9)
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 ### Konglig Bergs Spectacle Sellskapss Grande Finale av det 82:a Beregsspexet
-Vi räknar ned till vår Grande Finale av det 82:a Bergsspexet, Lördagen den 2 maj kl. 13:00 [tiden justeras eventuellt]
+Vi räknar ned till vår Petite och Grande Finale av det 82:a Bergsspexet
 
-Biljettsläpp sker i mitten av februari, intresse kan anmälas i detta [formulär](https://forms.gle/fQpLMaoBRRdNBK4Q7).
+Petite Finale: Fredagen den 1 maj kl. 15:00
+
+Grande finale: Lördagen den 2 maj kl. 13:00
+
+[klockslagens tiderna justeras eventuellt]
 
 Föreställningen börjar om:
 
