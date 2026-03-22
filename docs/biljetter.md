@@ -1,6 +1,6 @@
 # Grande finale Biljetter
 
-[Beställningsformulär för spexbiljetter!](https://forms.gle/z2mCXafh2DVhxtZf9)
+[Köp biljetter i detta formulär!](https://forms.gle/z2mCXafh2DVhxtZf9)
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
