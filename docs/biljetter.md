@@ -7,11 +7,11 @@ För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 ### Konglig Bergs Spectacle Sellskapss Grande Finale av det 82:a Beregsspexet
 Vi räknar ned till vår Petite och Grande Finale av det 82:a Bergsspexet
 
-Petite Finale: Fredagen den 1 maj kl. 15:00
+Petite Finale: Fredagen den 1 maj kl. 16:30 🕟
 
-Grande finale: Lördagen den 2 maj kl. 13:00
+Grande finale: Lördagen den 2 maj kl. 13:00 🕜
 
-[klockslagens tiderna justeras eventuellt]
+Inklusive paus är tillställningen ungefär 3h lång.
 
 Föreställningen börjar om:
 
