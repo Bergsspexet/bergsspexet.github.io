@@ -9,7 +9,7 @@ Vi räknar ned till vår Petite och Grande Finale av det 82:a Bergsspexet
 
 Petite Finale: Fredagen den 1 maj kl. 16:30 🕟
 
-Grande finale: Lördagen den 2 maj kl. 13:00 🕜
+Grande finale: Lördagen den 2 maj kl. 13:30 🕜
 
 Inklusive paus är tillställningen ungefär 3h lång.
 
