@@ -49,3 +49,5 @@ Föreställningen börjar om:
     }
   }, 1000);
 </script>
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTlRd0nuGd5BP6teFZljuh_80VjGZaQbH5sTqDk14dPuQbXFtxWAxH9PGHBroXk_hXhK20MA-_jPuOs/pubchart?oid=1860846324&format=image)
