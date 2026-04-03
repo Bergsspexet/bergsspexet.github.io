@@ -1,5 +1,15 @@
 # Grande finale Biljetter
 
+Föreställningen börjar om:
+
+<div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
+  <span id="weeks"></span> veckor, 
+  <span id="days"></span> dagar, 
+  <span id="hours"></span> timmar, 
+  <span id="minutes"></span> minuter och 
+  <span id="seconds"></span> sekunder.
+</div>
+
 [Köp biljetter i detta formulär!](https://forms.gle/z2mCXafh2DVhxtZf9)
 
 För frågor maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
@@ -13,18 +23,8 @@ Grande finale: Lördagen den 2 maj kl. 13:30 🕜
 
 Inklusive paus är tillställningen ungefär 3h lång.
 
-Föreställningen börjar om:
-
-<div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
-  <span id="weeks"></span> veckor, 
-  <span id="days"></span> dagar, 
-  <span id="hours"></span> timmar, 
-  <span id="minutes"></span> minuter och 
-  <span id="seconds"></span> sekunder.
-</div>
-
 <script>
-  var targetDate = new Date("May 2, 2026 13:00:00").getTime();
+  var targetDate = new Date("May 2, 2026 13:30:00").getTime();
 
   var countdownFunction = setInterval(function() {
     var now = new Date().getTime();
