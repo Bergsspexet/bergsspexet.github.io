@@ -118,8 +118,8 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
 
 ## FAQ
 
-**Hur anmäler jag mig?**  
-Du är anmäld när du både har betalat och skickat in formuläret.
+**Hur funkar anmälan och betalning?**  
+Formuläret reserverar din(a) biljett(er) och du får en automatisk faktura. När vi har kontrollerat betalningen (manuellt) bekräftar vi bokningen och skickar ut biljetten.
 
 **Var är det?**  
 [Tibble Teatern, Attundavägen 1, Täby](https://maps.app.goo.gl/MnNGC1f8hirJ9DsbA)
