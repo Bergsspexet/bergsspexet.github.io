@@ -1,6 +1,6 @@
 # Grande finale Biljetter
 
-<a href="https://bit.ly/4sS5Og7-1"
+<a href="https://forms.gle/z2mCXafh2DVhxtZf9"
    style="display:inline-block; padding:14px 18px; background:#e11d48; color:white; font-weight:700; border-radius:10px; text-decoration:none;">
   Köp biljetter (tar ca 1 min)
 </a>
@@ -31,8 +31,8 @@
 
 ## Vad är det här? (kort)
 
-Bergsspexet är ett studentspex: musik, humor och publikinteraktion via inrop till skådis lägger på ett härligt improvisations teater moment.
-Du behöver inte kunna något om handlingen för att ha kul – kom som du är och ha kul.
+Bergsspexet är ett studentspex: musik, humor och publikinteraktion.  
+Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
 
 ---
 
@@ -86,7 +86,7 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är o
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     document.getElementById("weeks").innerHTML = weeks;
-    document.get.getElementById("days").innerHTML = days;
+    document.getElementById("days").innerHTML = days;
     document.getElementById("hours").innerHTML = hours;
     document.getElementById("minutes").innerHTML = minutes;
     document.getElementById("seconds").innerHTML = seconds;
@@ -105,7 +105,7 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är o
 
 ## Köp biljetter
 
-<a href="https://bit.ly/4v9TnOf-2"
+<a href="https://forms.gle/z2mCXafh2DVhxtZf9"
    style="display:inline-block; padding:14px 18px; background:#e11d48; color:white; font-weight:700; border-radius:10px; text-decoration:none;">
   Köp biljetter i formuläret
 </a>
@@ -122,7 +122,7 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är o
 Du är anmäld när du både har betalat och skickat in formuläret.
 
 **Var är det?**  
-Tibble Teatern, Attundavägen 1, Täby.
+[Tibble Teatern, Attundavägen 1, Täby](https://maps.app.goo.gl/MnNGC1f8hirJ9DsbA)
 
 **Hur lång är föreställningen?**  
 Ungefär 3 timmar.
