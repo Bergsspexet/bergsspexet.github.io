@@ -22,7 +22,7 @@
 **Petite Finale:** Fredag 1 maj 2026 kl. 16:30 🕟  
 **Grande Finale:** Lördag 2 maj 2026 kl. 13:30 🕜  
 
-**Plats:** Tibble Teatern, Attundavägen 1, Täby  
+**Plats:** [Tibble Teatern, Attundavägen 1, Täby](https://maps.app.goo.gl/MnNGC1f8hirJ9DsbA)  
 **Längd:** ca 3 timmar  
 
 **Pris:** 180 kr student • 280 kr ordinarie  
