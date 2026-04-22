@@ -131,4 +131,12 @@ Ungefär 3 timmar.
 Maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 **Grande Finale Gasque?**  
-(Formulär för Grande Finale Gasque tillkommer senare.)
+Efter Grande finale 2 maj, är det efterfest gasque för spexarna, Bergsmännen och KTH studenterna. Välkomna är de med THS medlemskap, SBF medlemskap, Bergsspex alumner och eller dig som bjudits in av någon i spexet. Anmälan sker här [https://forms.gle/6LaHEdFNmGdQicpS6](https://forms.gle/6LaHEdFNmGdQicpS6)
+
+---
+
+## QR-kod
+
+Skanna QR-koden för att öppna den här sidan:
+
+[![QR-kod till biljettsidan](./qr-code_bergsspexet-com-biljetter.png)](./biljetter.html)
