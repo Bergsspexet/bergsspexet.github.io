@@ -6,11 +6,11 @@
 </a>
 
 <div style="margin-top:8px; opacity:0.9;">
-  Snabbt formulär • Betalning + formulär = anmälan • Frågor/teknik: <a href="mailto:bergsspexet@gmail.com">bergsspexet@gmail.com</a>
+  Snabbt formulär • Betalning + formulär = anmälan • Frågor: <a href="mailto:bergsspexet@gmail.com">bergsspexet@gmail.com</a>
 </div>
 
 <div style="margin-top:10px; opacity:0.9;">
-  Begränsat antal platser – säkra din plats i tid.
+  Grupprabatt! // Begränsat antal platser – säkra din plats i tid.
 </div>
 
 ---
