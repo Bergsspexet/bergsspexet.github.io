@@ -1,48 +1,56 @@
-# Grande finale Biljetter
+# Bergsspexets 83:e premiär - Biljetter
 
-<a href="https://forms.gle/z2mCXafh2DVhxtZf9"
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSetPb7UAxCNKGYo4vORZqrnLqoE-PebXAShJJkDRwkCkX8nQg/viewform?usp=header"
    style="display:inline-block; padding:14px 18px; background:#e11d48; color:white; font-weight:700; border-radius:10px; text-decoration:none;">
   Köp biljetter (tar ca 1 min)
 </a>
 
 <div style="margin-top:8px; opacity:0.9;">
-  Snabbt formulär • Betalning + formulär = anmälan • Frågor: <a href="mailto:bergsspexet@gmail.com">bergsspexet@gmail.com</a>
+  Boka i formuläret och få orderbekräftelse och faktura via e-post. Frågor: <a href="mailto:bergsspexet@gmail.com">bergsspexet@gmail.com</a>
 </div>
 
 <div style="margin-top:10px; opacity:0.9;">
-  Grupprabatt! // Begränsat antal platser – säkra din plats i tid.
+  Begränsat antal platser - boka i tid.
 </div>
 
 ---
 
 ## Det viktigaste
 
-**Det 82:a Bergsspexets Vårföreställningar**  
+**Bergsspexets 83:e premiär**  
 
-**Petite Finale:** Fredag 1 maj 2026 kl. 16:30 🕟  
-**Grande Finale:** Lördag 2 maj 2026 kl. 13:30 🕜  
+**Datum:** Lördag 5 december 2026  
+**Start:** kl. 13:00  
+**Dörrarna öppnas:** kl. 12:30  
 
-**Plats:** [Tibble Teatern, Attundavägen 1, Täby](https://maps.app.goo.gl/MnNGC1f8hirJ9DsbA)  
-**Längd:** ca 3 timmar  
+**Plats:** [CONFIDENCEN, Slottsallén, 170 79 Solna](https://www.google.com/maps/search/?api=1&query=CONFIDENCEN%2C%20Slottsall%C3%A9n%2C%20170%2079%20Solna)  
+**Kollektivtrafik:** Närmaste hållplats är Ulriksdals wärdshus.  
+**Parkering:** Det finns parkering mitt emot teatern.  
 
-**Pris:** 180 kr student • 280 kr ordinarie
-
-**Grupprabatt för studenter (4+ biljetter):** Samla kompisgänget!  
-
-Rabatten ger **halva priset** på fredagen kl. **16:30** och **25% rabatt** på lördagen kl. **13:30** (gäller studentbiljetter i bokningen).  
-
-Rabatten dras av på fakturan efter att enkätsvaret har lämnats in. Nämn gärna i ”Övrigt” om ni är vänspexare!
+**Pris:** 180 kr student, 280 kr ordinarie.
 
 ---
 
-## Vad är det här? (kort)
+## Bokning och betalning
+
+Fyll i bokningsformuläret före föreställningen. Du får en orderbekräftelse och en faktura via e-post med dina biljetter och eventuella tillval.
+
+Betala gärna så snart som möjligt via Swish eller bankgiro. Ange betalningsreferensen på fakturan, eller skanna fakturans Swish-QR-kod.
+
+**Betalningsfrist:** normalt 7 dagar från fakturadatum, dock senast 4 december 2026. Vid sena bokningar blir fristen kortare. Det förfallodatum som står på din faktura gäller.
+
+Betalningen kontrolleras manuellt, vilket kan ta några dagar. Biljetten skickas via e-post när betalningen har bekräftats. Om du redan har betalat ska du inte betala igen.
+
+---
+
+## Om Bergsspexet
 
 Bergsspexet är ett studentspex: musik, humor och publikinteraktion.  
-Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
+Du behöver inte kunna något om handlingen för att ha kul - kom som du är.
 
 ---
 
-## Nedräkning till nästa föreställning
+## Nedräkning till premiären
 
 <div id="countdown" style="font-size: 1.2em; font-weight: bold; text-align: center; margin: 20px auto;">
   <div id="countdownTitle" style="margin-bottom: 6px;"></div>
@@ -54,17 +62,11 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
 </div>
 
 <script>
-  // Väljer automatiskt "nästa" föreställning att räkna ner till:
-  // - innan 1 maj: räknar ner till Petite Finale
-  // - mellan 1 maj och 2 maj: räknar ner till Grande Finale
-  // - efter 2 maj: visar avslutad text
-  var show1 = new Date("May 1, 2026 16:30:00").getTime(); // Petite Finale
-  var show2 = new Date("May 2, 2026 13:30:00").getTime(); // Grande Finale
+  const premiereTime = new Date("2026-12-05T13:00:00+01:00").getTime();
 
   function pickTarget(now) {
-    if (now < show1) return { date: show1, title: "Nästa: Petite Finale (1 maj 2026 16:30 🕟)" };
-    if (now < show2) return { date: show2, title: "Nästa: Grande Finale (2 maj 2026 13:30 🕜)" };
-    return { date: null, title: "Föreställningarna är över – håll utkik efter nästa!" };
+    if (now < premiereTime) return { date: premiereTime, title: "Premiär: lördag 5 december 2026 kl. 13:00" };
+    return { date: null, title: "Premiären har börjat. Tack för ditt intresse!" };
   }
 
   var countdownFunction = setInterval(function() {
@@ -111,13 +113,13 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
 
 ## Köp biljetter
 
-<a href="https://forms.gle/z2mCXafh2DVhxtZf9"
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSetPb7UAxCNKGYo4vORZqrnLqoE-PebXAShJJkDRwkCkX8nQg/viewform?usp=header"
    style="display:inline-block; padding:14px 18px; background:#e11d48; color:white; font-weight:700; border-radius:10px; text-decoration:none;">
   Köp biljetter i formuläret
 </a>
 
 <div style="margin-top:8px; opacity:0.9;">
-  Betalningen + svar på formuläret är tillsammans din anmälan.
+  Du får en orderbekräftelse och faktura via e-post efter bokningen.
 </div>
 
 ---
@@ -125,19 +127,22 @@ Du behöver inte kunna något om handlingen för att ha kul – kom som du är.
 ## FAQ
 
 **Hur funkar anmälan och betalning?**  
-Formuläret reserverar din(a) biljett(er) och du får en automatisk faktura. När vi har kontrollerat betalningen (manuellt) bekräftar vi bokningen och skickar ut biljetten.
+Fyll i formuläret före föreställningen. Orderbekräftelse och faktura skickas via e-post. När vi har kontrollerat betalningen skickar vi biljetten. Förfallodatum och betalningsreferens finns på fakturan.
 
 **Var är det?**  
-[Tibble Teatern, Attundavägen 1, Täby](https://maps.app.goo.gl/MnNGC1f8hirJ9DsbA)
+[CONFIDENCEN, Slottsallén, 170 79 Solna](https://www.google.com/maps/search/?api=1&query=CONFIDENCEN%2C%20Slottsall%C3%A9n%2C%20170%2079%20Solna)
 
-**Hur lång är föreställningen?**  
-Ungefär 3 timmar.
+**När ska jag vara där?**  
+Dörrarna öppnas kl. 12:30 och föreställningen börjar kl. 13:00 lördagen den 5 december 2026.
+
+**Hur tar jag mig dit?**  
+Närmaste hållplats är Ulriksdals wärdshus. Parkering finns mitt emot teatern.
+
+**Jag har betalat men inte fått någon biljett.**  
+Betalningar kontrolleras manuellt och det kan ta några dagar. Kontakta oss om du saknar din biljett inför föreställningen. Ange gärna ordernummer eller biljett-ID, och betala inte igen.
 
 **Jag har frågor eller tekniska problem.**  
 Maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
-
-**Grande Finale Gasque?**  
-Efter Grande finale 2 maj, är det efterfest gasque för spexarna, Bergsmännen och KTH studenterna. Välkomna är de med THS medlemskap, SBF medlemskap, Bergsspex alumner och eller dig som bjudits in av någon i spexet. Anmälan sker här [https://forms.gle/6LaHEdFNmGdQicpS6](https://forms.gle/6LaHEdFNmGdQicpS6)
 
 ---
 
