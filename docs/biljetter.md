@@ -148,6 +148,6 @@ Maila oss på [bergsspexet@gmail.com](mailto:bergsspexet@gmail.com)
 
 ## QR-kod
 
-Skanna QR-koden för att öppna den här sidan:
+Skanna QR-koden för att öppna den här sidan i mobilen:
 
 [![QR-kod till biljettsidan](./qr-code_bergsspexet-com-biljetter.png)](./biljetter.html)
